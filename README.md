@@ -59,3 +59,12 @@ def add(value1, value2): # take user input as int then add them together, displa
 add(2, 2)
 ```
 
+[] !()
+
+# OOP code along diagram
+
+- step 1: create animal.py as parent
+- #
+- step 2: create reptile.py as a child to inherit- abstract etc.
+- step 3: snake.py & inherit from reptile
+- step 4: python_oop.py 
