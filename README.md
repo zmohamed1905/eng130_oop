@@ -70,4 +70,8 @@ add(2, 2)
 - step 4: python_oop.py 
 
 # W3S Practice Code
+
 ![](C:\Users\Zakariya\Documents\ShareX\Screenshots\2022-10\firefox_qTJW4F4AO8.png)
+
+
+![](https://i.imgur.com/yOYb5pN.png)
