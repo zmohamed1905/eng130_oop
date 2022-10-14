@@ -4,7 +4,7 @@
 class Animal: #follow the correct naming convention & best practices
     # we need to initialise with builtin method called __init__(self)
     # self refers to current class
-    def __int__(self):# any attributes attached to the class should be part of init method
+    def __init__(self):# any attributes attached to the class should be part of init method
         # self.var = What you want to save var as
         self.alive = True
         self.spine = True

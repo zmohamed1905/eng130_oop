@@ -59,7 +59,7 @@ def add(value1, value2): # take user input as int then add them together, displa
 add(2, 2)
 ```
 
-[] !()
+[] !(https://i.imgur.com/npwsFzY.png)
 
 # OOP code along diagram
 
@@ -68,3 +68,6 @@ add(2, 2)
 - step 2: create reptile.py as a child to inherit- abstract etc.
 - step 3: snake.py & inherit from reptile
 - step 4: python_oop.py 
+
+# W3S Practice Code
+![](C:\Users\Zakariya\Documents\ShareX\Screenshots\2022-10\firefox_qTJW4F4AO8.png)

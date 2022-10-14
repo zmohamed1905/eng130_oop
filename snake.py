@@ -2,8 +2,8 @@ from reptile import Reptile
 
 class Sk(Reptile):
 
-    def __int__(self):
-        super().__int__()
+    def __init__(self):
+        super().__init__()
         self.forked_tongue = True
     def use_tongue_to_smell(self):
         return "if I can touch it I can smell it too"
